@@ -1,0 +1,3 @@
+﻿  (BSCS_22025) Gomuko in C++.cpp
+C:\Users\Muhammad\Desktop\Visual studio storage\Gomuko on C++\(BSCS_22025) Gomuko in C++.cpp(286,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gomuko on C++.vcxproj -> C:\Users\Muhammad\Desktop\Visual studio storage\Gomuko on C++\x64\Debug\Gomuko on C++.exe
